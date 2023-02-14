@@ -1,12 +1,3 @@
-## Hi there 👋
+[![The Keyframe Base Banner](https://github.com/keyframe-base/.github/blob/main/Banners/Keyframe%20Base%20Banner.png?raw=true "Press the right mouse button and then press 'Copy the URL' to copy the URL to the Keyframe Base GitHub page")](https://github.com/keyframe-base)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center">Keyframe Base</h1>
