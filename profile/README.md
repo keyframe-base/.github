@@ -4,7 +4,7 @@
 
 > ⚠️ **Warning! This project is under development!**
 >
-> It means that all the information and the code can be changed at any time. Please, be careful when forking. Thank you for yor understanding!
+> It means that all the information and the code can be changed at any time. Please, be careful when forking. Thank you for your understanding!
 
 Welcome Keyframe Base - the collection of elegant and customizable animations for you websites. 
 
