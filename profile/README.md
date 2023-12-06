@@ -6,20 +6,33 @@
 >
 > It means that all the information and the code can be changed at any time. Please, be careful when forking. Thank you for your understanding!
 
-Welcome Keyframe Base - the collection of elegant and customizable animations for you websites. 
+# Keyframe Base 
 
-How it works:
 
-1. Open the website: keyframebase.anafro.ru.
-2. Then, select the animation you like.
-3. Customize the animation with knobs, if needed.
-4. At the top-right, you can click the button "Copy CSS" to copy the animation's code.
+Keyframe Base is a service for finding and customizing CSS animations from a professionally crafted huge collection! Keyframe Base helps frontend programmers with adding life to their websites, making them more engaging and entertaining!
 
-And here you go! Simple, isn't it?
 
-<h2 align="center">Development process</h2>
+Keyframe Base provides several features that makes it easy and useful:
 
-"Keyframe Base" is now at the design state. So I've created the UI-prototypes and I am going to start the development very soon. 
+* Huge collection of animations for every purpose, so everyone can find yourself animations they would love;
+* Each of our animations are customizable, so scale, transitions, time, skew and easing can be adjusted the way you like;
+* Animations can be exported as a bundle of CSS and HTML in separated files, together in a single HTML file or just CSS `@keyframes`
 
-[![The Keyframe Base Banner](https://github.com/keyframe-base/.github/blob/main/Interface%20Prototypes/Keyframe%20Base%20Interface%20Prototype%20-%20Animation%20Editor.png?raw=true "Press the right mouse button and then press 'Copy the URL' to copy the URL to the Keyframe Base GitHub page")](https://github.com/keyframe-base)
-<p align="center">Keyframe Base Interface Prototype - The animation editor</p>
+## Learn how to use Keyframe Base
+Keyframe Base is absolutely friendly to everyone and easy to use.
+To understand how to work with Keyframe Base properly, watch our [quick start tutorial](https://youtube.com).
+
+## Technology Stack of Keyframe Base
+To create this web service, several technologies were used:
+
+* Basic web technologies (HTML, CSS, JavaScript)
+* Pug (Jade) templates
+* Node.js
+* Prisma.js
+* MySQL
+
+## Contribution
+Thank you a lot for any contribution to Keyframe Base! I'd love to see your pull requests and issues! Please, feel free to contribute
+
+## License
+Keyframe Base is an open-source projectproject, which is licensed under MIT.
